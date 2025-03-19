@@ -12,6 +12,10 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
    
 ## PROGRAM :
 ```
+Dveloped By : NITHYA D
+Reg.no : 212223240110
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
